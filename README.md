@@ -1,10 +1,10 @@
-📌 Sobre o Projeto
+📌 SOBRE ESTE PROJETO  
 
 Este projeto foi desenvolvido como parte de uma atividade de Back-end com o objetivo de criar uma aplicação para a empresa Cálculos SA, uma escola especializada em treinamentos corporativos.
 
 A aplicação consiste em uma calculadora em Node.js, executada via terminal, capaz de realizar as principais operações matemáticas básicas com validações completas de entrada de dados.
 
-🎯 Objetivo da Atividade
+🎯 OBJETIVO DA ATIVIDADE
 
 Desenvolver um sistema capaz de:
 
@@ -18,7 +18,7 @@ Exibir o resultado com duas casas decimais
 
 Garantir validações para evitar erros e entradas inválidas
 
-➕ Operações Disponíveis
+➕ OPERAÇÕES DISPONÍVEIS
 
 A calculadora realiza as seguintes operações:
 
@@ -30,7 +30,7 @@ Multiplicação
 
 Divisão
 
-🛡️ Validações Implementadas
+🛡️ VALIDAÇÕES IMPLEMENTADAS 
 
 O sistema foi desenvolvido com tratamento de erros para garantir maior robustez:
 
@@ -56,7 +56,7 @@ O sistema foi desenvolvido com tratamento de erros para garantir maior robustez:
 
 ✅ Limita o resultado final a duas casas decimais
 
-🧩 Estrutura do Projeto
+🧩 ESTRUTURA DO PROJETO
 
 O projeto foi desenvolvido de forma modularizada, tornando o código mais organizado e profissional:
 
@@ -68,13 +68,13 @@ Modulo/calculos.js → Responsável pela execução das operações matemáticas
 
 Essa separação segue boas práticas de desenvolvimento, facilitando manutenção e escalabilidade.
 
-🖥️ Tecnologias Utilizadas
+🖥️ TECNOLOGIAS UTILIZADAS 
 
 Node.js
 
 Módulo readline para entrada de dados via terminal
 
-🚀 Como Executar
+🚀 COMO EXECUTAR
 
 Instale o Node.js na sua máquina
 
@@ -83,7 +83,7 @@ Clone o repositório
 Execute no terminal:
 
 node index.js
-📚 Conclusão
+📚 CONCLUSÃO
 
 Este projeto reforça conceitos importantes de:
 
@@ -98,4 +98,5 @@ Manipulação de números decimais
 Boas práticas de organização de projeto
 
 A atividade demonstra a importância de criar sistemas seguros, organizados e preparados para lidar com diferentes tipos de entrada do usuário.
+
 
