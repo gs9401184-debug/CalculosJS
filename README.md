@@ -82,7 +82,8 @@ Clone o repositório
 
 Execute no terminal:
 
-node index.js
+node .\app.js
+
 📚 CONCLUSÃO
 
 Este projeto reforça conceitos importantes de:
@@ -98,5 +99,6 @@ Manipulação de números decimais
 Boas práticas de organização de projeto
 
 A atividade demonstra a importância de criar sistemas seguros, organizados e preparados para lidar com diferentes tipos de entrada do usuário.
+
 
 
